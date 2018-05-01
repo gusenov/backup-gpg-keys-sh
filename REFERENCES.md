@@ -1,0 +1,5 @@
+- [Instructions for exporting/importing (backup/restore) GPG keys](https://gist.github.com/chrisroos/1205934)
+- [pgp - Where can I find the detailed manual page for gpg --list-secret-keys output - Information Security Stack Exchange](https://security.stackexchange.com/questions/162336/where-can-i-find-the-detailed-manual-page-for-gpg-list-secret-keys-output)
+- [Subkeys - Debian Wiki](https://wiki.debian.org/Subkeys)
+- [gnupg - Explain gpg --list-keys output - Super User](https://superuser.com/questions/879724/explain-gpg-list-keys-output)
+- [Использование PGP/GPG, руководство для нетерпеливых | Записки программиста](https://eax.me/gpg/)
